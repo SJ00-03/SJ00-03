@@ -12,7 +12,6 @@
 ### Language
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
@@ -35,9 +34,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| **실시간 행동 분석 기반 대응 로봇(https://github.com/SJ00-03/realtime-action-response-robot)** | 실시간 행동 인식, 자세 분석, 임베디드 제어를 결합한 대응 로봇 시스템 구현 | Python, Raspberry Pi, STM32, YOLO, MediaPipe |
-| **PLC-HMI-Servo 자동화 시스템(https://github.com/SJ00-03/plc-hmi-servo-automation)** | 금속/비금속 공정 자동화 시스템 구현, HMI 연동, 서보 제어, 인터록, 알람, 택타임 개선 수행 | Mitsubishi PLC, HMI, Servo, GX Works2 |
-| **자동 알약 디스펜서(https://github.com/SJ00-03/automatic-pill-dispenser)** | 모터 제어 기반 알약 배출 구조 설계, 센서 기반 상태 감지 기능 구현, 사용자 알림 및 제어 인터페이스 구성 | C, STM32, App Inventor |
+| **[실시간 행동 분석 기반 대응 로봇](https://github.com/SJ00-03/realtime-action-response-robot)** | 실시간 행동 인식, 자세 분석, 임베디드 제어를 결합한 대응 로봇 시스템 구현 | Python, Raspberry Pi, STM32, YOLO, MediaPipe |
+| **[PLC-HMI-Servo 자동화 시스템](https://github.com/SJ00-03/plc-hmi-servo-automation)** | 금속/비금속 공정 자동화 시스템 구현, HMI 연동, 서보 제어, 인터록, 알람, 택타임 개선 수행 | Mitsubishi PLC, HMI, Servo, GX Works2 |
+| **[자동 알약 디스펜서](https://github.com/SJ00-03/automatic-pill-dispenser)** | 모터 제어 기반 알약 배출 구조 설계, 센서 기반 상태 감지 기능 구현, 사용자 알림 및 제어 인터페이스 구성 | C, STM32, App Inventor |
 
 ---
 
