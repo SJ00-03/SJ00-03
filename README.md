@@ -3,7 +3,7 @@
 
 - **전자전기공학부** 전공생
 - **임베디드 시스템, 로봇, 산업 자동화, 방산 소프트웨어** 분야에 관심이 있습니다.
-- **C, Python, PLC, Verilog, Arduino/ESP32, Raspberry Pi**를 활용한 프로젝트를 진행해왔습니다.
+- **C, Python, PLC, Arduino/ESP32, Raspberry Pi**를 활용한 프로젝트를 진행해왔습니다.
 
 ---
 
