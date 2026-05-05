@@ -57,10 +57,3 @@
 - GitHub: **https://github.com/SJ00-03**
 
 ---
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
