@@ -53,7 +53,7 @@
 
 ## 📫 연락처
 
-- Email: **seongjun5@naver.com**
+- Email: **sj.rapha.00@gmail.com**
 - GitHub: **https://github.com/SJ00-03**
 
 ---
