@@ -3,7 +3,7 @@
 
 - **전자전기공학부** 전공생
 - **임베디드 시스템, 로봇, 산업 자동화, 방산 소프트웨어** 분야에 관심이 있습니다.
-- **C, Python, PLC, Arduino/ESP32, Raspberry Pi**를 활용한 프로젝트를 진행해왔습니다.
+- **C, C++, Python, PLC, Arduino/ESP32, Raspberry Pi**를 활용한 프로젝트를 진행해왔습니다.
 
 ---
 
@@ -12,8 +12,8 @@
 ### Language
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ### Embedded / Hardware
 
@@ -35,6 +35,8 @@
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | **[실시간 행동 분석 기반 대응 로봇](https://github.com/SJ00-03/realtime-action-response-robot)** | 실시간 행동 인식, 자세 분석, 임베디드 제어를 결합한 대응 로봇 시스템 구현 | Python, Raspberry Pi, STM32, YOLO, MediaPipe |
+| **[ROScue - ROS2 기반 다중 로봇 협업 시스템](https://github.com/SJ00-03/ROScue)** | 순찰·해체 로봇 3대의 협업 시스템 구현, ROS Domain Bridge 기반 지도 공유, YOLO 객체 탐지 및 중앙 서버 제어 | ROS2, Python, Nav2, YOLO, Flask |
+| **[Scorpy - 자율주행 층간 배송 로봇](https://github.com/SJ00-03/Scorpy)** | 5축 로봇팔과 자율주행 로봇을 통합하여 엘리베이터 층간 이동 및 배송 수행, FSM 기반 미션 관리와 CAN 통신 구현 | ROS2, Python, STM32, CAN, Nav2, ArUco |
 | **[자동 알약 디스펜서](https://github.com/SJ00-03/automatic-pill-dispenser)** | 모터 제어 기반 알약 배출 구조 설계, 센서 기반 상태 감지 기능 구현, 사용자 알림 및 제어 인터페이스 구성 | C, STM32, App Inventor |
 | **[PLC-HMI-Servo 자동화 시스템](https://github.com/SJ00-03/plc-hmi-servo-automation)** | 금속/비금속 공정 자동화 시스템 구현, HMI 연동, 서보 제어, 인터록, 알람, 택타임 개선 수행 | Mitsubishi PLC, HMI, Servo, GX Works2 |
 
